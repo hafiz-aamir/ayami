@@ -1,0 +1,219 @@
+@media (max-width: 1800px) {
+    .find-more {
+    width: 67.6%;
+}
+
+}
+
+@media (max-width: 1650px) {
+    
+        .find-more {
+    width: 77.4%;
+}
+
+}
+
+
+
+@media (max-width: 1440px) {
+  .Sec-Banner {
+    height: 1030px;
+    background-position: bottom right;
+    background-size: 50% 100%;
+  }
+  .about-main-links .first-tabs ul li a {
+    font-size: 18px;
+  }
+  .Top-Header {
+    padding: 1rem 0rem;
+  }
+  .SomeAboutContent p {
+    font-size: 13px;
+    /* margin-bottom: 4px; */
+    line-height: 22px;
+    /* margin-top: 20px; */
+  }
+  .nav-link img {
+    width: 200px;
+  }
+  .SomeaboutIage img {
+    width: 200px !important;
+    height: 200px !important;
+  }
+  section.form-contact {
+    padding-bottom: 50px;
+  }
+
+  .LookingBoxContent p {
+    font-size: 16px;
+  }
+  .nav-item {
+    margin-right: 3px;
+  }
+  a.navbar-brand {
+    margin-right: 10px;
+  }
+  .nav-link {
+    font-size: 14px;
+    color: #333238;
+    padding: 0 12px !important;
+  }
+  .FOrmBanner {
+    margin-top: 2rem;
+  }
+  span.welcome {
+    padding: 12px 9px;
+    font-size: 16px;
+  }
+  .BannerText h1 {
+    margin: 9px 0;
+    font-size: 35px;
+  }
+  .BannerText p {
+    font-size: 18px;
+    width: 66%;
+  }
+  .Sec-Looking {
+    margin: 2rem 0;
+  }
+  .PropertiesSec {
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+  }
+  .AdvantagesContent h1 {
+    margin: 2px 0 14px;
+    font-size: 48px;
+  }
+  .AdvantagesCorrect ul li {
+    margin: 18px 0;
+  }
+  .AdvantagesContent p {
+    font-size: 15px;
+  }
+  .carouselNew-carousel .active.center .banner-content {
+    width: 80%;
+  }
+  .best-selling button.owl-prev {
+    left: 4%;
+  }
+  .best-selling button.owl-next {
+    right: 4%;
+  }
+  a.nav-link.termsandcondition:before {
+    width: 8%;
+    left: 48%;
+    top: 215px;
+  }
+  p {
+    font-size: 14px;
+  }
+  .Sec-Looking {
+    padding: 0 0;
+    margin-bottom: 0;
+  }
+
+  .LoockingBoxIcon img {
+    padding: 11px 12px;
+  }
+
+  .LoockingBoxIcon {
+    margin: 1rem 0 1rem;
+  }
+
+  .LookingBox-MAin {
+    padding: 20px 18px 8px;
+  }
+  .second-agent p {
+    width: 88%;
+  }
+  p.samll-b {
+    width: 85%;
+  }
+
+  .teaching p {
+    width: 100%;
+  }
+  .PropertiesSec .property-box h6 {
+    font-size: 13px;
+  }
+
+  .PropertiesSec .paragraph {
+    font-size: 11px;
+  }
+  .PropertiesSec .propertiesContent p {
+    width: 38%;
+  }
+  .LookingBox-MAin:hover img {
+    margin-left: 40px;
+  }
+  .blogs {
+    background-size: cover;
+  }
+  .claculater-inner {
+    height: 500px;
+  }
+  .about {
+    height: 600px;
+  }
+  .how-it-work {
+    height: 600px;
+  }
+  .proerty {
+    height: 600px;
+  }
+  .find-more p {
+    /* width: 82%; */
+  }
+  .same-sec {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .find-more {
+    width: 78.7%;
+  }
+  .main-agent:after {
+    /* height: 81%; */
+    /* top: 180px; */
+    /* width: 31%; */
+    /* right: 12px; */
+  }
+
+  .main-agent:before {
+    /* height: 81%; */
+    /* top: 180px; */
+    /* width: 30%; */
+    /* left: 18px; */
+  }
+  .advisor-img img {
+    height: 80px !important;
+  }
+  .client-name {
+    padding-top: 0;
+  }
+
+  .client-name p {
+    font-size: 14px;
+  }
+  .SomeAboutContent p span {
+    font-size: 20px;
+  }
+
+  .how-work {
+    height: 650px !important;
+  }
+  .faq_q_sec {
+    height: 560px !important;
+  }
+  .founder-ayami {
+    height: 420px !important;
+  }
+
+  .founder-pg-links {
+    margin-top: -250px;
+  }
+
+  .property-sec {
+    height: 450px !important;
+  }
+}
+
